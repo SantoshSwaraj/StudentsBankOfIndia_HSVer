@@ -1,0 +1,36 @@
+<!-- <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+ "-//Hibernate/Hibernate Mapping DTD//EN"
+ "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"> 
+
+<hibernate-mapping>
+
+   <class name="main.model.Account_Transaction" table="ACCOUNT_TRANSACITON">
+      <meta attribute="class-description">
+         This class contains the account transaction records. 
+      </meta>
+      <id name="trans_id" type="int" column="TRANS_ID">
+         <generator class="increment"/>
+      </id>
+      
+     <property name="account_no" type="int">
+		<column name="ACCOUNT_NO" length="15" not-null="true"/>
+		
+	 <property name="debit" type="int">
+		<column name="DEBIT" length="15"/>
+	 </property>
+	 
+	 <property name="credit" type="int">
+		<column name="CREDIT" length="15"/>
+	 </property>
+	 
+	 <property name="trans_date" type="date">
+		<column name="TRANS_DATE"/>
+	 </property>
+	 
+	 <property name="description" type="string">
+		<column name="DESCRIPTION" length="50"/>
+	 </property> 
+	 </class>
+
+</hibernate-mapping>-->

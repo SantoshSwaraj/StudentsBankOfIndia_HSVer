@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>  
+<!DOCTYPE hibernate-mapping PUBLIC  
+          "-//Hibernate/Hibernate Mapping DTD 3.0//EN"  
+          "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd"> 
+           
+  <hibernate-mapping>  
+    <class name="main.model.Acc_NetBal" table="ACC_NETBAL">  
+          <id name="account_no">  
+          <generator class="foreign">  
+          <param name="property">Customer_Account</param>  
+          </generator>  
+          </id> 
+           
+          <property name="acc_bal" type="int">
+			<column name="ACC_BAL" length="15" not-null="true" unique="true"/>
+	  	  </property>
+            
+          <one-to-one name="customer_account"></one-to-one>  
+    </class>           
+</hibernate-mapping>  

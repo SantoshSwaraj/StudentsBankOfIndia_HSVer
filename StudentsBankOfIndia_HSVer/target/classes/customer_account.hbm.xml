@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="main.model.Customer_Account" table="Customer_Account">
+		<id name="cust_id" type="int">
+			<column name="CUST_ID" />
+			<generator class="increment" />
+		</id>
+		<property name="cname" type="string">
+			<column name="CNAME" length="20" not-null="true" />
+		</property>
+		<property name="dob" type="date">
+			<column name="DOB" not-null="true"/>
+		</property>
+		<property name="addr_l1" type="string">
+			<column name="ADDR_L1" length="40" not-null="true" />
+		</property>
+		<property name="addr_l2" type="string">
+			<column name="ADDR_L2" length="40" not-null="true" />
+		</property>
+		<property name="reg_email" type="string">
+			<column name="REG_EMAIL" length="40" not-null="true" unique="true"/>
+		</property>
+		<property name="account_no" type="int">
+			<column name="ACCOUNT_NO" length="15" not-null="true" unique="true"/>
+		</property>
+		<property name="acc_type" type="string">
+			<column name="ACC_TYPE" length="10" not-null="true"/>
+		</property>
+		
+		<one-to-one name="acc_netbal" class="main.model.Acc_NetBal"
+			cascade="all"></one-to-one>
+			
+		<set name="account_transactions" cascade="all">
+          <key column="ACCOUNT_NO"/>
+          <one-to-many class="main.model.Account_Transaction"/>
+        </set>
+		
+	</class>
+</hibernate-mapping>
