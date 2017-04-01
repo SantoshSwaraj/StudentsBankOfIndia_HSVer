@@ -1,4 +1,4 @@
-<!--<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <beans
 	xmlns="http://www.springframework.org/schema/beans"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -11,10 +11,10 @@
 	        <property name="url" value="jdbc:mysql//localhost/banking_system_sh"/>
 	        <property name="username" value="root"/>
 	        <property name="password" value=""/>
-	</bean>-->
+	</bean>
 	
 <!-- Hibernate SessionFactory -->
-<!--  <bean id="sessionFactory" class="org.springframework.orm.hibernate4.LocalSessionFactoryBean">
+  <bean id="sessionFactory" class="org.springframework.orm.hibernate4.LocalSessionFactoryBean">
 	        <property name="dataSource" ref="dataSource"/>
 	        <property name="mappingResources">
 	        	<list>
@@ -41,4 +41,4 @@
 	    	<property name="template" ref="template"></property>
 	    </bean>
 	    
- </beans>-->
+ </beans>
