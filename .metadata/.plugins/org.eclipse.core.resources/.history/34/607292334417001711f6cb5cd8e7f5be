@@ -1,0 +1,15 @@
+package main.dao;
+
+import org.springframework.orm.hibernate4.HibernateTemplate;
+
+import main.model.Bank_Admin;
+
+public class StudentsBankOfIndiaDaoImpl implements StudentsBankOfIndiaDao {
+	private HibernateTemplate template;
+	@Override
+	public void saveBankAdmin(Bank_Admin bank_admin) {
+		template.save(bank_admin);
+		
+	}
+
+}

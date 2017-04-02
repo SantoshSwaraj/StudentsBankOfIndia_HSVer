@@ -27,7 +27,7 @@
 	<div class="row">
 		<h2>Register your account for Online Banking</h2> 
         
-        <form class="form-horizontal">
+        <form class="form-horizontal" action="adminReg" method="post">
 		<fieldset>
 
 		<!-- Form Name -->
@@ -35,54 +35,65 @@
 
 		<!-- Text input-->
 		<div class="form-group">
-  		<label class="col-md-4 control-label" for="textinput">First Name</label>  
+  		<label class="col-md-4 control-label" for="emp_fname">First Name</label>  
   		<div class="col-md-4">
-  		<input id="textinput" name="textinput" placeholder="Insert your First Name" class="form-control input-md" required="" type="text">
+  		<input id="emp_fname" name="emp_fname" placeholder="Insert your First Name" class="form-control input-md" required="" type="text">
   		<span class="help-block"> </span>  
-  	</div>
-	</div>
+  		</div>
+		</div>
+		
+		<!-- Text input-->
+		<div class="form-group">
+  		<label class="col-md-4 control-label" for="emp_mname">Middle Name</label>  
+  		<div class="col-md-4">
+  		<input id="emp_mname" name="emp_mname" placeholder="Insert your Middle Name" class="form-control input-md" type="text">
+  		<span class="help-block"> </span>  
+  		</div>
+		</div>
+		
 
 	<!-- Text input-->
 	<div class="form-group">
-  	<label class="col-md-4 control-label" for="textinput">Last Name</label>  
+  	<label class="col-md-4 control-label" for="emp_lname">Last Name</label>  
   	<div class="col-md-4">
-  	<input id="textinput" name="textinput" placeholder="Insert your Last Name" class="form-control input-md" required="" type="text">
+  	<input id="emp_lname" name="emp_lname" placeholder="Insert your Last Name" class="form-control input-md" required="" type="text">
+  	<span class="help-block"> </span>  
+  	</div>
+	</div>
+	
+	<!-- Text input-->
+	<div class="form-group">
+  	<label class="col-md-4 control-label" for="emp_design">Designation</label>  
+  	<div class="col-md-4">
+  	<input id="emp_design" name="emp_design" placeholder="Insert your Designation" class="form-control input-md" required="" type="text">
+  	<span class="help-block"> </span>  
+  	</div>
+	</div>
+	
+
+	<!-- Text input-->
+	<div class="form-group">
+  	<label class="col-md-4 control-label" for="email">Email</label>  
+  	<div class="col-md-4">
+  	<input id="email" name="email" placeholder="Insert your Email" class="form-control input-md" required="" type="text">
   	<span class="help-block"> </span>  
   	</div>
 	</div>
 
 	<!-- Text input-->
 	<div class="form-group">
-  	<label class="col-md-4 control-label" for="textinput">Email</label>  
+  	<label class="col-md-4 control-label" for="username">UserName</label>  
   	<div class="col-md-4">
-  	<input id="textinput" name="textinput" placeholder="Insert your Email" class="form-control input-md" required="" type="text">
+  	<input id="username" name="username" placeholder="User Name" class="form-control input-md" required="" type="text">
   	<span class="help-block"> </span>  
   	</div>
 	</div>
 
 	<!-- Text input-->
 	<div class="form-group">
-  	<label class="col-md-4 control-label" for="textinput">UserName</label>  
+  	<label class="col-md-4 control-label" for="password">Password</label>  
   	<div class="col-md-4">
-  	<input id="textinput" name="textinput" placeholder="User Name" class="form-control input-md" required="" type="text">
-  	<span class="help-block"> </span>  
-  	</div>
-	</div>
-
-	<!-- Text input-->
-	<div class="form-group">
-  	<label class="col-md-4 control-label" for="textinput">Password</label>  
-  	<div class="col-md-4">
-  	<input id="textinput" name="textinput" placeholder="Insert your Password" class="form-control input-md" required="" type="text">
-  	<span class="help-block"> </span>  
-  	</div>
-	</div>
-
-	<!-- Text input-->
-	<div class="form-group">
-  	<label class="col-md-4 control-label" for="textinput">Confirm Password</label>  
-  	<div class="col-md-4">
-  	<input id="textinput" name="textinput" placeholder="Confirm your Password" class="form-control input-md" required="" type="text">
+  	<input id="password" name="password" placeholder="Insert your Password" class="form-control input-md" required="" type="password">
   	<span class="help-block"> </span>  
   	</div>
 	</div>

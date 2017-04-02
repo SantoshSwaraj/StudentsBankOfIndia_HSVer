@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_76q0cRb1EeeFVsCJ0BKVyA" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_76q0chb1EeeFVsCJ0BKVyA" bindingContexts="_76q0dBb1EeeFVsCJ0BKVyA">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia_HSVer/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;applicationContext.xml&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/src/main/resources/applicationContext.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia_HSVer/src/main/resources/applicationContext.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;displayStatement.jsp&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/WebContent/displayStatement.jsp&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia_HSVer/WebContent/displayStatement.jsp&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;mainMenuDisplay.jsp&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/WebContent/mainMenuDisplay.jsp&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia_HSVer/WebContent/mainMenuDisplay.jsp&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;registration.jsp&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/WebContent/registration.jsp&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia_HSVer/WebContent/registration.jsp&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;index.jsp&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/WebContent/index.jsp&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia_HSVer/WebContent/index.jsp&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;web.xml&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/WebContent/WEB-INF/web.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia_HSVer/WebContent/WEB-INF/web.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;StudentsBankOfIndiaDaoImpl.java&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/src/main/dao/main/dao/StudentsBankOfIndiaDaoImpl.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia_HSVer/src/main/dao/main/dao/StudentsBankOfIndiaDaoImpl.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia_HSVer/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;applicationContext.xml&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/src/main/resources/applicationContext.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia_HSVer/src/main/resources/applicationContext.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;web.xml&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/WebContent/WEB-INF/web.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/StudentsBankOfIndia_HSVer/WebContent/WEB-INF/web.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_76q0chb1EeeFVsCJ0BKVyA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_8b6gUhb1EeeFVsCJ0BKVyA" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
@@ -70,9 +70,8 @@
           <tags>persp.newWizSC:org.eclipse.m2e.core.wizards.Maven2ProjectWizard</tags>
           <tags>persp.showIn:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
           <tags>persp.actionSet:org.eclipse.wst.ws.explorer.explorer</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_9D1b8Rb1EeeFVsCJ0BKVyA" selectedElement="_9D1b8hb1EeeFVsCJ0BKVyA" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_9D1b8Rb1EeeFVsCJ0BKVyA" selectedElement="_9D1b9xb1EeeFVsCJ0BKVyA" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_9D1b8hb1EeeFVsCJ0BKVyA" elementId="topLeft" containerData="1625" selectedElement="_9D1b8xb1EeeFVsCJ0BKVyA">
-              <tags>active</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_9D1b8xb1EeeFVsCJ0BKVyA" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_9BpqoBb1EeeFVsCJ0BKVyA"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_9D1b9Bb1EeeFVsCJ0BKVyA" elementId="org.eclipse.ui.views.ResourceNavigator" toBeRendered="false" ref="_9BsG4Bb1EeeFVsCJ0BKVyA"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_9D1b9Rb1EeeFVsCJ0BKVyA" elementId="org.eclipse.jdt.ui.TypeHierarchy" toBeRendered="false" ref="_9BsG4Rb1EeeFVsCJ0BKVyA"/>
@@ -127,17 +126,54 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_9BZL8Bb1EeeFVsCJ0BKVyA" elementId="org.eclipse.ui.editorss" selectedElement="_9BZL8Rb1EeeFVsCJ0BKVyA">
-      <children xsi:type="basic:PartStack" xmi:id="_9BZL8Rb1EeeFVsCJ0BKVyA" elementId="org.eclipse.e4.primaryDataStack">
+      <children xsi:type="basic:PartStack" xmi:id="_9BZL8Rb1EeeFVsCJ0BKVyA" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_rgWlMBdEEee0Wq_vuLaUzg">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
+        <tags>active</tags>
+        <children xsi:type="basic:Part" xmi:id="_rgWlMBdEEee0Wq_vuLaUzg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Bank_AdminRegServlet.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Bank_AdminRegServlet.java&quot; partName=&quot;Bank_AdminRegServlet.java&quot; title=&quot;Bank_AdminRegServlet.java&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/src/main/controller/main/controller/Bank_AdminRegServlet.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia_HSVer/src/main/controller/main/controller/Bank_AdminRegServlet.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1867&quot; selectionTopPixel=&quot;479&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_3RvIkBdEEee0Wq_vuLaUzg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="registration.jsp" iconURI="platform:/plugin/org.eclipse.jst.jsp.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;registration.jsp&quot; partName=&quot;registration.jsp&quot; title=&quot;registration.jsp&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/WebContent/registration.jsp&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia_HSVer/WebContent/registration.jsp&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;4&quot; selectionOffset=&quot;1606&quot; selectionTopPixel=&quot;440&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jst.jsp.core.jspsource.source</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_1e_jIBdFEee0Wq_vuLaUzg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Bank_Admin.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Bank_Admin.java&quot; partName=&quot;Bank_Admin.java&quot; title=&quot;Bank_Admin.java&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/src/main/model/main/model/Bank_Admin.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia_HSVer/src/main/model/main/model/Bank_Admin.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;325&quot; selectionTopPixel=&quot;40&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_jSBfkBdJEee0Wq_vuLaUzg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="applicationContext.xml" iconURI="platform:/plugin/org.eclipse.wst.xml.ui/icons/xmldoc.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;applicationContext.xml&quot; partName=&quot;applicationContext.xml&quot; title=&quot;applicationContext.xml&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/src/main/resources/applicationContext.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia_HSVer/src/main/resources/applicationContext.xml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;826&quot; selectionTopPixel=&quot;114&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_dpAMIBdKEee0Wq_vuLaUzg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="StudentsBankOfIndia_HSVer/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;StudentsBankOfIndia_HSVer/pom.xml&quot; title=&quot;StudentsBankOfIndia_HSVer/pom.xml&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia_HSVer/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_a96pcBdLEee0Wq_vuLaUzg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="StudentsBankOfIndiaDaoImpl.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;StudentsBankOfIndiaDaoImpl.java&quot; partName=&quot;StudentsBankOfIndiaDaoImpl.java&quot; title=&quot;StudentsBankOfIndiaDaoImpl.java&quot; tooltip=&quot;StudentsBankOfIndia_HSVer/src/main/dao/main/dao/StudentsBankOfIndiaDaoImpl.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/StudentsBankOfIndia_HSVer/src/main/dao/main/dao/StudentsBankOfIndiaDaoImpl.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;62&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_9BpqoBb1EeeFVsCJ0BKVyA" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.gif" tooltip="" closeable="true">
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1491063146756&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
-      <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_9JFIUBb1EeeFVsCJ0BKVyA" elementId="org.eclipse.ui.navigator.ProjectExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -243,11 +279,14 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8wzLMhb1EeeFVsCJ0BKVyA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_0arh4BcCEeezJp1uQZmEgA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_773uVBb1EeeFVsCJ0BKVyA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_XVe5RxdCEee0Wq_vuLaUzg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_773uVBb1EeeFVsCJ0BKVyA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8wzLMxb1EeeFVsCJ0BKVyA" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
         <children xsi:type="menu:ToolBarSeparator" xmi:id="_8wzLNBb1EeeFVsCJ0BKVyA" elementId="additions" toBeRendered="false"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_QBZLIBdDEee0Wq_vuLaUzg" elementId="org.eclipse.ui.edit.text.actionSet.presentation" visible="false">
+        <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_9GDpgBb1EeeFVsCJ0BKVyA" elementId="org.eclipse.debug.ui.launchActionSet">
         <tags>Draggable</tags>
@@ -270,7 +309,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8wzLNxb1EeeFVsCJ0BKVyA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_0ayPkBcCEeezJp1uQZmEgA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_771SIRb1EeeFVsCJ0BKVyA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_XVoqSBdCEee0Wq_vuLaUzg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_771SIRb1EeeFVsCJ0BKVyA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8wzLOBb1EeeFVsCJ0BKVyA" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>

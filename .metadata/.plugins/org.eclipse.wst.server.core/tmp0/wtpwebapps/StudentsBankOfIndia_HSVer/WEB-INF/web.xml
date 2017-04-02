@@ -9,4 +9,15 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>Bank_AdminRegServlet</display-name>
+    <servlet-name>Bank_AdminRegServlet</servlet-name>
+    <servlet-class>main.controller.Bank_AdminRegServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Bank_AdminRegServlet</servlet-name>
+    <url-pattern>/Bank_AdminRegServlet</url-pattern>
+    <url-pattern>/adminReg</url-pattern>
+  </servlet-mapping>
 </web-app>

@@ -5,6 +5,7 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/model"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/controller"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/dao"/>
         <property name="context-root" value="StudentsBankOfIndia_HSVer"/>
         <property name="java-output-path" value="/StudentsBankOfIndia_HSVer/build/classes"/>
     </wb-module>
